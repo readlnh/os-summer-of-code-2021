@@ -13,3 +13,6 @@
 - [Running 64- and 32-bit RISC-V Linux on QEMU](https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html)
 
 明天还要从绍兴去苏州，需要在路上消耗很多时间，希望能跟上进度。
+
+## Day2 2020/7/3
+今天晚上才到家，没有太多时间，只是写了一道leetcode，大概看了一下`cargo workspace`。预计明天把`rust programing`过一遍。
