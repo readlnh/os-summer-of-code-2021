@@ -15,4 +15,4 @@
 明天还要从绍兴去苏州，需要在路上消耗很多时间，希望能跟上进度。
 
 ## Day2 2020/7/3
-今天晚上才到家，没有太多时间，只是写了一道leetcode，大概看了一下`cargo workspace`。预计明天把`rust programing`过一遍。
+今天晚上才到家，没有太多时间，只是写了一道leetcode，大概看了一下`cargo workspace`。预计明天把`rust programing`过一遍。还要再做一下computer vison的实验，明天要抓紧时间！
