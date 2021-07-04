@@ -16,3 +16,6 @@
 
 ## Day2 2020/7/3
 今天晚上才到家，没有太多时间，只是写了一道leetcode，大概看了一下`cargo workspace`。预计明天把`rust programing`过一遍。还要再做一下computer vison的实验，明天要抓紧时间！
+
+## Day3 2020/7/4
+大概过了一遍rust基础，开始做`rustlings`的练习。上[链接](https://github.com/readlnh/rustlings)
