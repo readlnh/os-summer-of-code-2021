@@ -19,3 +19,7 @@
 
 ## Day3 2020/7/4
 大概过了一遍rust基础，开始做`rustlings`的练习。上[链接](https://github.com/readlnh/rustlings)
+
+## Day4-Day5 2020/7/5~7/6
+完成了`rustlings`到collections的所有练习，并对可变引用和ownership以及rust的模块组织进行了一些总结。
+预计明天完成`rustlings`并刷一些leedcode进行总结。
