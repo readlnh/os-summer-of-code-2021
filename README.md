@@ -23,3 +23,6 @@
 ## Day4-Day5 2020/7/5~7/6
 完成了`rustlings`到collections的所有练习，并对可变引用和ownership以及rust的模块组织进行了一些总结。
 预计明天完成`rustlings`并刷一些leedcode进行总结。
+
+## Day6~7 2020/7/7~7/8
+基本完成了`rustlings`，对[error handing](./error_handing.md)和[inrerior mutability](./Interior_mutability.md)进行了一些总结。
