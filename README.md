@@ -26,3 +26,9 @@
 
 ## Day6~7 2020/7/7~7/8
 基本完成了`rustlings`，对[error handing](./error_handing.md)和[inrerior mutability](./Interior_mutability.md)进行了一些总结。
+
+## Day8~10 2020/7/9~7/10
+完成了`rustlings`，对宏编程进行了一定的学习。
+
+## Day11~12 2020/7/11~7/12
+重温了blog_os，完成了第一章的代码，并开始学习rcore。
